@@ -3,6 +3,10 @@ Instagram does not give a feature to view profile picture of other users but usi
 
 <b>Use it wisely</b>
 
+### Install
+
+	sudo apt-get install python3-bs4
+
 ### Instructions to run the app
 
 	python3 app.py
